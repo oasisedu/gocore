@@ -9,9 +9,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/ystrowski/gocore/libs"
-	"github.com/ystrowski/gocore/stores"
-	"github.com/ystrowski/gocore/utils/strutils"
+	"github.com/oasisedu/gocore/libs"
+	"github.com/oasisedu/gocore/stores"
+	"github.com/oasisedu/gocore/utils/strutils"
 )
 
 type SysLogin struct {

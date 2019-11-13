@@ -1,4 +1,4 @@
-module github.com/ystrowski/gocore
+module github.com/oasisedu/gocore
 
 go 1.13
 

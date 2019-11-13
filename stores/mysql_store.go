@@ -11,11 +11,9 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	"github.com/ystrowski/gocore/libs"
-	"github.com/ystrowski/gocore/rs"
+	"github.com/oasisedu/gocore/libs"
+	"github.com/oasisedu/gocore/rs"
 	"strings"
-
-
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"

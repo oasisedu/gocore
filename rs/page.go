@@ -7,7 +7,7 @@
 
 package rs
 
-import "github.com/ystrowski/gocore/libs"
+import "github.com/oasisedu/gocore/libs"
 
 type PageData struct {
 	Page   libs.Int    `json:"page"`
